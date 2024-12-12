@@ -1,4 +1,4 @@
-# Virtual Try-On Application
+# VIsteteIA
 
 ## Descripción del Proyecto
 Esta aplicación web permite a los usuarios cargar imágenes personales y superponer prendas virtuales utilizando inteligencia artificial. Conectándose a modelos generativos alojados en Hugging Face, la aplicación crea imágenes realistas que simulan cómo se verían las prendas en el usuario.
