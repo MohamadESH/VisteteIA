@@ -3,6 +3,9 @@
 ## Descripción del Proyecto
 Esta aplicación web permite a los usuarios cargar imágenes personales y superponer prendas virtuales utilizando inteligencia artificial. Conectándose a modelos generativos alojados en Hugging Face, la aplicación crea imágenes realistas que simulan cómo se verían las prendas en el usuario.
 
+![Vista de la Web 1](images/web.jpg "Vista de la Web - Primera Imagen")
+![Vista de la Web 2](images/web2.jpg "Vista de la Web - Segunda Imagen")
+
 ## Características Principales
 - **Generación de imágenes virtuales:** Usa un modelo de difusión para combinar imágenes del usuario y prendas seleccionadas.
 - **Interfaz amigable:** Desarrollada con Angular y PrimeNG para una experiencia fluida.
