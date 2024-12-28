@@ -1,5 +1,5 @@
 # VisteteIA
-![VisteteIA-Logo](Imagenes\VisteteIA-logo.png "Logo")
+![VisteteIA-Logo](Imagenes/VisteteIA.png "Logo")
 
 ## Descripción del Proyecto
 Esta aplicación web permite a los usuarios cargar imágenes personales y superponer prendas virtuales utilizando inteligencia artificial. Conectándose a modelos generativos alojados en Hugging Face, la aplicación crea imágenes realistas que simulan cómo se verían las prendas en el usuario.
